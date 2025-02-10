@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-z*de7!=m=im5l*zppg3r($kh^kbi8=#e6p^l8eo$y2014v@t@_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['https://prueba22.pythonanywhere.com']
 PORT = os.getenv("PORT", "8000")
 
 # Application definition
